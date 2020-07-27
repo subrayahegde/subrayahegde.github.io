@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "profile"
+AuthUserFile "/home/shegde/.htpasswds/public_html/profile/passwd"
+require valid-user
